@@ -1,16 +1,19 @@
 	h1{
+  font-size: 250%;
 	text-align:center;
 	color:white; 
 	font-family:Copperplate Gothic;
 	}
 
 	h3{
+  font-size: 200%;
 	text-align:center;
 	color:white; 
 	font-family:Copperplate Gothic;
 	}
 
 	p{
+  font-size: 200%;
 	text-align:center;
 	color:white; 
 	font-family:Copperplate Gothic;
@@ -23,6 +26,7 @@
 	}
 
 	.paragrafo {
+    font-size: 200%;
 	display: inline-block;
     vertical-align: top;
     width: 65%;
@@ -32,6 +36,7 @@
 
 
 	a{
+  font-size: 200%;
 	color:white;
 	text-decoration:none;
 	}
@@ -42,11 +47,13 @@
 
 
 	ul {
+    font-size: 200%;
 		vertical-align:top; 
 		text-align:right;
 	}
 
 	.itens {
+  font-size: 200%;
 	color:white;	
 	text-align:center;
 	list-style:none
