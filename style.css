@@ -1,5 +1,5 @@
 	h1{
-  font-size: 5;
+  font-size: 250%;
 	text-align:center;
 	color:white; 
 	font-family:Copperplate Gothic;
@@ -32,6 +32,7 @@
     width: 65%;
     margin-right: 0%;
     text-align: justify;
+	font-family:Copperplate Gothic;
 	}
 
 
@@ -39,6 +40,7 @@
   font-size: 200%;
 	color:white;
 	text-decoration:none;
+	font-family:Copperplate Gothic;
 	}
 
 	#missão {
@@ -50,11 +52,13 @@
     font-size: 200%;
 		vertical-align:top; 
 		text-align:right;
+		font-family:Copperplate Gothic;
 	}
 
 	.itens {
   font-size: 200%;
 	color:white;	
 	text-align:center;
-	list-style:none
+	list-style:none;
+	font-family:Copperplate Gothic;
 	}
